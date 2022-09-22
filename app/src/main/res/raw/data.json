@@ -1,0 +1,99 @@
+{
+  "name": "Yehor Tkachuk",
+  "position": "Android Developer",
+  "about": "I am 25 y.o. Living in Ukraine. Like so much programming and creating something new. Over the last few years, I have developed a number of applications using JAVA and Kotlin for Android OS. My core competency lies in developing client-side applications from scratch and functionality extending of the existing ones.",
+  "education": [
+    {
+      "name": "National University \"Zaporizhzhia polytechnic\"",
+      "degree": "Zaporizhia – master degree",
+      "faculty": "Computer Science and Technologies",
+      "speciality": "Software Engineering"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Ukrainian",
+      "code": "UA",
+      "level": "Native"
+    },
+    {
+      "name": "English",
+      "code": "GB",
+      "level": "Intermidiate"
+    }
+  ],
+  "projects": [
+    {
+      "id": 0,
+      "title": "BlockWRK",
+      "desc_short": "Employee tracking and utility app based on cryptocurrency WRK",
+      "position": "Android/iOS Developer",
+      "desc_full": "App for US employees that allows them to track working time each day, create VISA card, obtain bonuses for daily questions, step tracking and safety reports (based on company plan), convert part of salary into WRK cryptocurrency. Most parts of the app are configurable from the backend, which allows companies to enable/disable part of functionality regarding their needs.",
+      "date_start": "August 2021",
+      "date_end": "May 2022",
+      "google_play_link": "https://play.google.com/store/apps/details?id=com.blockwrk",
+      "technologies": "Kotlin, Java, MVP design pattern, RxJava2, Crashlytics, Retrofit, View customization, Spotlight, Remote Config, FCM, Swift, MVC design pattern, Storyboard (UIKit), Alamofire, Crashlytics, Remote Config, FCM",
+      "responsibility": "Develop an application according to the specification"
+    },
+    {
+      "id": 1,
+      "title": "Yourfirm / Jobtube",
+      "desc_short": "Work finding platform",
+      "position": "Android Developer",
+      "desc_full": "Yourfirm is one of the leading and award-winning job portals in Germany. I worked on the Jobtube (Yourfirm product) mobile application. It has a lot of unique features, the one I like the most is that a job seeker has a possibility to record and send an introduction video instead of a cover letter.",
+      "date_start": "February 2020",
+      "date_end": "July 2021",
+      "google_play_link": "https://play.google.com/store/apps/details?id=com.phonegap.yourfirm",
+      "technologies": "Java, Retrofit, Firebase Cloud Messaging, view customization, git, fastlane",
+      "responsibility": "Develop an application according to the specification"
+    },
+    {
+      "id": 2,
+      "title": "Roomster",
+      "desc_short": "Renthouse finding platform",
+      "position": "Android Developer",
+      "desc_full": "Roomster is an application for searching flats and houses for rent and also for placing adverts for people who want to give a flat or house for rent. This app is very popular in the USA. It has a lot of complicated modules and APIs, communication with support and subscriptions for premium users.",
+      "date_start": "June 2020",
+      "date_end": "August 2020",
+      "google_play_link": "https://play.google.com/store/apps/details?id=com.roomster",
+      "technologies": "Java, Retrofit, Firebase Cloud Messaging, RXJava2, MVP design pattern, EventBus, view customization, git",
+      "responsibility": "Develop an application according to the specification"
+    },
+    {
+      "id": 3,
+      "title": "Gyrocopter App",
+      "desc_short": "Map tracking app",
+      "position": "Android Developer",
+      "desc_full": "Gyrocopter map tracking application, main features: receive data from the antenna, connect to the device via USB port, parsing received data and displaying it on the map and on custom views (compass, height, etc), the ability to save session result and recreate it when user wants using this app.",
+      "date_start": "June 2019",
+      "date_end": "",
+      "google_play_link": "",
+      "technologies": "Kotlin, MVVM design pattern, LiveData, Koin, RxJava 2, Google Maps APIs, USB Serial for Android, view customization, git",
+      "responsibility": "Develop an application according to the specification"
+    },
+    {
+      "id": 4,
+      "title": "CareVisit",
+      "desc_short": "Facility app",
+      "position": "Android Developer",
+      "desc_full": "A tablet application for storing and editing information about residents and staff of a certain facility. Features: database synchronization between backend and other connected devices, device registration on backend via QRcode, custom reports views.",
+      "date_start": "July 2019",
+      "date_end": "November 2019",
+      "google_play_link": "",
+      "technologies": "Kotlin, MVP design pattern, RxJava2, Couchbase Lite, Retrofit, Toothpick, Crashlytics, Azure cloud, unit testing, view customization, git",
+      "responsibility": "Develop an application according to the specification"
+    },
+    {
+      "id": 5,
+      "title": "Emathy",
+      "desc_short": "Math learning game",
+      "position": "Android Developer",
+      "desc_full": "A math learning game that gives equations to users and 4 options, one of which is correct. Users should solve equations until the timer reaches zero. Features: 3 difficulty levels, random generation of mathematical equations, and solving them, leaderboards.",
+      "date_start": "June 2019",
+      "date_end": "August 2019",
+      "google_play_link": "https://play.google.com/store/apps/details?id=com.natife.math",
+      "technologies": "Kotlin, MVVM design pattern, LiveData, Crashlytics, Koin, AdMob, UnityAds, Google Play Games services, Google Drive, RxJava2, Google Billing, view customization, git",
+      "responsibility": "Develop an application according to the specification"
+    }
+  ]
+}
